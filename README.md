@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## DEMO URL
+Open in www [https://hulu-clone-d25df.web.app/](https://hulu-clone-d25df.web.app/) to view it in the browser.
 
 ## Available Scripts
 
